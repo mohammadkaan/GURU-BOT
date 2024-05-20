@@ -27,7 +27,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 global.mods = ['94768967587', '94785481803']
 global.prems = ['94785481803', '94768967587']
-global.allowed = ['94785481803', '94768967587', '19152999993']
+global.allowed = ['94785481803', '94768967587']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [

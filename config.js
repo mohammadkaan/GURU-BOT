@@ -25,9 +25,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011', '32460248586']
-global.prems = ['917605902011', '32460248586', '919398758484']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['94768967587', '94785481803']
+global.prems = ['94785481803', '94768967587']
+global.allowed = ['94785481803', '94768967587', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,15 +73,15 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.packname = 'jkr'
+global.author = 'Asliguru'
+global.menuvid = 'https://telegra.ph/file/accb1cf34eefeffe3d95d.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
+global.dygp = 'https://chat.whatsapp.com/Fd9HOXWnwYh4LKKT0NgTSM'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fgyt = 'https://www.youtube.com/@arivukkadal579'
+global.fgpyp = 'https://www.youtube.com/@arivukkadal579'
+global.fglog = 'https://telegra.ph/file/accb1cf34eefeffe3d95d.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'

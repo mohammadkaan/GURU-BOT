@@ -10,22 +10,22 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "94768967587;ˢᴸᴹ(•ิ‿•ิ)𝑨𝒔𝒓𝒊;94785481803;Asliguru"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "*𝐵𝐿𝐴𝐶𝐾 𝑃𝐴𝑁𝑇𝐻𝐸𝑅 𝘔𝘋*"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://cpjoker:cpjoker553@cluster0.z9jjdxt.mongodb.net/"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~KqMtvNBh"
     },
     "MODE": {
       "description": "mode public or private",
@@ -35,32 +35,32 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "$"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-837ab01e-28c2-4aa0-af19-a5becface475"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "cyber94"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
